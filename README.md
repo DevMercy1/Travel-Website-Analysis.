@@ -6,4 +6,4 @@ Exploring and analysing a travel website dataset which enables the company to kn
 Are they satisfied with what they want from the site?
 What was their reaction towards the site?
 How many clients book a tour via the website?
-Which country and month does the site has highest number of patronage?[N Data Challenge May 2022.xlsx](https://github.com/Adebolabest/Travel-Website-Analysis./files/9412627/N.Data.Challenge.May.2022.xlsx)
+Which country and month does the site has highest number of patronage?
